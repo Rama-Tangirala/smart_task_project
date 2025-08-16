@@ -1,0 +1,127 @@
+{
+   "checksum": "41dccbbf2b1c3b04dbe6d956143d6a43",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13223931300547645",
+            "date_last_used": "0",
+            "guid": "2f094cde-71ef-4adb-a14a-b11f5d8fae76",
+            "id": "11",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13223931300544087",
+            "date_last_used": "0",
+            "guid": "d27c6818-e80f-4877-9fd1-65ec3846fabd",
+            "id": "12",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService",
+            "visit_count": 0
+         }, {
+            "date_added": "13265737225441783",
+            "date_last_used": "0",
+            "guid": "a1597832-0eef-44c7-b1c1-a383a029e022",
+            "id": "13",
+            "name": "Computer and Information Security - ppt download",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fslideplayer.com%2Fslide%2F10529667%2F35%2Fimages%2F34%2FOne-way%2BHASH%2Bfunction%2BAlternative%2Bto%2BMessage%2BAuthentication%2BCode.jpg&imgrefurl=https%3A%2F%2Fslideplayer.com%2Fslide%2F10529667%2F&tbnid=xC_yT2EILw55ZM&vet=10CAMQxiAoAGoXChMImLLXg_3Q8AIVAAAAAB0AAAAAEBM..i&docid=tT11p8C6OBk5OM&w=960&h=720&itg=1&q=What%20is%20difference%20between%20a%20message%20authentication%20code%20and%20a%20one%20%E2%80%93%20way%20hash%20function%3F&ved=0CAMQxiAoAGoXChMImLLXg_3Q8AIVAAAAAB0AAAAAEBM",
+            "visit_count": 0
+         }, {
+            "date_added": "13223931300550449",
+            "date_last_used": "0",
+            "guid": "88626178-a77e-45f1-89b1-7f22df7dec06",
+            "id": "14",
+            "name": "Maps",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://maps.google.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13223931311586823",
+            "date_last_used": "0",
+            "guid": "df90103a-1e59-4f01-aafb-84fe243cd0f8",
+            "id": "15",
+            "name": "Translate",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://translate.google.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13223917566269936",
+            "date_last_used": "0",
+            "guid": "57cd8157-318b-4510-bac2-0ec18ec6671f",
+            "id": "16",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "http://secure.rezserver.com/sdk/v1/LinkFwd?refid=9006&destination=booking&refclickid=webslice1819",
+            "visit_count": 0
+         } ],
+         "date_added": "13399812105731369",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13223917566263698",
+               "date_last_used": "0",
+               "guid": "e8336275-0538-4dd6-b8a1-963679718fe1",
+               "id": "10",
+               "name": "Booking.com",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://secure.rezserver.com/sdk/v1/LinkFwd?refid=9006&destination=booking&refclickid=iefav1819",
+               "visit_count": 0
+            } ],
+            "date_added": "13399812118279437",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "e9bf6e1e-18fc-4501-9d4a-e756b71a74db",
+            "id": "9",
+            "name": "HP",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13399812105731369",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13399812105731369",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCPXtVLKYAQAAEgAqGE93TGV2aVlVRWRBSVVhNU5uaitxc3c9PUgDoAYMEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDZhNGVjMjVmLTZhN2QtNWM4Yy04MmI3LTc3MWZhM2JjODNmYxgAIAAoADCekubFtC44tZOx/5EwQLWTsf+RMEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgABKsAQgJEqcBChxuQU9DUlBxSTc1eFB6RXhuQWpJT3o1Y2NQeGc9EiRlOWJmNmUxZS0xOGZjLTQ1MDEtOWQ0YS1lNzU2YjcxYTc0ZGIYACAAKAAwvLzB84kxOJO9wfOJMUCTvcHziTFKHHhmR0wwcTBvcllVaHdYRlFuaUthdGp0aEFVWT1aHiIcb3U3N0k3OEM1YWQ3UlNkcHovWWFPbnFFU2Q0PWUAAAAAwj4CYAASrQEIDxKoAQocanVYUXlnTUxzOGVWdEg4aldJOTR5N0lxODdzPRIkNDQ5YmEyZGYtMThiOC00ZjVhLWEwMTYtMWEyNGRkOWMzMDZjGAAgACgAMP7U59DvLjixn7H/kTBAsZ+x/5EwShx5NVBHc3lBQUdyaWZ0aTJWRlJSdXRFc2h5R2s9Wh8iHd10TlRvVi9CVEI1ZnlNVzhaUG1peWs4bGp0akU9ZcXPkAHCPgJgBRKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQ5NDE2OWY0ZC0yNWE2LTUzZGUtYjUxMS1jOGE3YzU0YjkwNTcYACAAKAAwmpLmxbQuOOeSsf+RMEDnkrH/kTBKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrAEIChKnAQocVSs3TkZMZmN5U1BMUUl4ZFNXc3VNdytGTGhFPRIkZTgzMzYyNzUtMDUzOC00ZGQ2LWI4YTEtOTYzNjc5NzE4ZmUxGAAgACgAML28wfOJMTjuvcHziTFA7r3B84kxShxvc29JWm1SVHE5UzAzR0l1dmNFeU83NE5TVlU9Wh4iHFpkRGk2WFpGQzB0dW9PYWJMV082UmJTSmNGTT1lAAAAAMI+AmACEqwBCAsSpwEKHCtmeFBob2RDd1lCSkROakNoMFA2TzFGdEZuMD0SJGMwOGE4MjVmLTc1YjgtNDQ2Zi1iZTEwLWQ2MjRjOTc5MDM0YhgAIAAoADDK4vDwyzE485Ox/5EwQPOTsf+RMEoccTk1VC9DSWorVjlJcDVTa3h4M2ZyWGZUUGh3PVoeIhx3RlI0RjBQb0c3dU9oYVQxZmZGd2Q2UUJzMHM9ZVQYbAHCPgJgBRKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRjOGVmOGVhYi02OTI4LTVjNzUtOWJmYy02YWFlZjgwYjQ2M2QYACAAKAAwmZLmxbQuONeSsf+RMEDXkrH/kTBKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAASrAEIDBKnAQocTnJ3ci9icmc4cjZ1R3QxejgzNFJ3eDFoZFpjPRIkMDE0NmU3NGUtMWM1Yi00MWY5LWE2NGMtZDc2YzQwNzJkMjIzGAAgACgAMKn56sW0LjjUk7H/kTBA1JOx/5EwShwvOWkzVEpBdXIvWUJlMUZUalFKNFhVVmZCajg9Wh4iHHlBOGtNaFM3N01pZlRDaUJmZGxZcUFxcjVROD1lAAAAAMI+AmAFEq0BCA0SqAEKHHVPT1ViMDdwM21aTkRKSEl5K21QQjB3aGtpVT0SJGExNTk3ODMyLTBlZWYtNDRjNy1iMWMxLWEzODNhMDI5ZTAyMhgAIAAoADCMwd/Wly844J+x/5EwQOCfsf+RMEocUWJWUk11aDh4S2x0akdOdy9iWFcwN0xEbmFNPVofIh2ZdVUwVE1TZVJndmR4U3ZjSWNlY0xDd0x2T0MwPWUAAAAAwj4CYAUSrQEIDhKoAQocMVlMOWgzN3ROWDdrai9GbC9EVmhKZCtpSXlFPRIkODlhNDBiNjUtM2ZmMC00MGFlLTkyMGEtMGNhNzhmZGQ4MjhkGAAgACgAMKv56sW0LjiSlLH/kTBAkpSx/5EwShxwM3BDZTJ4VjY0cEExbE1hdDgyeS8vTjJxK1k9Wh8iHbtoYVJWMVY0Qkc2YXNYY2lOd2U0dFhncDUvakU9ZQAAAADCPgJgBRKtAQgQEqgBChxMK3BmVFNrWVFIYUlMc2VaREFCOVVsVkluL2s9EiQ1N2NkODE1Ny0zMThiLTQ1MTAtYmFjMi0wZWMxOGVjNjY3MWYYACAAKAAwvrzB84kxOIe+wfOJMUCHvsHziTFKHEoxTXI4bGlMK3phY21uU21OUE1nVGE5Mm1CUT1aHyId7jJFeS9LYXFVUkNxdXdEU3FLclF2M01aY3hpYz1lAAAAAMI+AmACMAA4AA==",
+   "version": 1
+}
