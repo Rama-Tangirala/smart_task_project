@@ -1,0 +1,101 @@
+{
+   "checksum": "694da8333f7432df30ad17e852d48d49",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13223931300547645",
+            "date_last_used": "0",
+            "guid": "2f094cde-71ef-4adb-a14a-b11f5d8fae76",
+            "id": "11",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13223931300544087",
+            "date_last_used": "0",
+            "guid": "d27c6818-e80f-4877-9fd1-65ec3846fabd",
+            "id": "12",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13265737225441783",
+            "date_last_used": "0",
+            "guid": "a1597832-0eef-44c7-b1c1-a383a029e022",
+            "id": "13",
+            "name": "Computer and Information Security - ppt download",
+            "type": "url",
+            "url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fslideplayer.com%2Fslide%2F10529667%2F35%2Fimages%2F34%2FOne-way%2BHASH%2Bfunction%2BAlternative%2Bto%2BMessage%2BAuthentication%2BCode.jpg&imgrefurl=https%3A%2F%2Fslideplayer.com%2Fslide%2F10529667%2F&tbnid=xC_yT2EILw55ZM&vet=10CAMQxiAoAGoXChMImLLXg_3Q8AIVAAAAAB0AAAAAEBM..i&docid=tT11p8C6OBk5OM&w=960&h=720&itg=1&q=What%20is%20difference%20between%20a%20message%20authentication%20code%20and%20a%20one%20%E2%80%93%20way%20hash%20function%3F&ved=0CAMQxiAoAGoXChMImLLXg_3Q8AIVAAAAAB0AAAAAEBM"
+         }, {
+            "date_added": "13223931300550449",
+            "date_last_used": "0",
+            "guid": "88626178-a77e-45f1-89b1-7f22df7dec06",
+            "id": "14",
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13223931311586823",
+            "date_last_used": "0",
+            "guid": "df90103a-1e59-4f01-aafb-84fe243cd0f8",
+            "id": "15",
+            "name": "Translate",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13223917566269936",
+            "date_last_used": "0",
+            "guid": "57cd8157-318b-4510-bac2-0ec18ec6671f",
+            "id": "16",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "http://secure.rezserver.com/sdk/v1/LinkFwd?refid=9006&destination=booking&refclickid=webslice1819"
+         } ],
+         "date_added": "13399812105731369",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13223917566263698",
+               "date_last_used": "0",
+               "guid": "e8336275-0538-4dd6-b8a1-963679718fe1",
+               "id": "10",
+               "name": "Booking.com",
+               "type": "url",
+               "url": "http://secure.rezserver.com/sdk/v1/LinkFwd?refid=9006&destination=booking&refclickid=iefav1819"
+            } ],
+            "date_added": "13399812118279437",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "e9bf6e1e-18fc-4501-9d4a-e756b71a74db",
+            "id": "9",
+            "name": "HP",
+            "type": "folder"
+         } ],
+         "date_added": "13399812105731369",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13399812105731369",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
